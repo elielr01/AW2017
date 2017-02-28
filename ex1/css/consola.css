@@ -1,0 +1,13 @@
+em {
+  font-weight: bold
+}
+
+p, h1, h2, h3 {
+  font-size: 18px;
+}
+
+body {
+  font-family: monospace;
+  color: #00CC00;
+  background-color: #000000;
+}
