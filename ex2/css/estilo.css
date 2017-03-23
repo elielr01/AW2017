@@ -1,0 +1,58 @@
+/*
+  Author: Elí Emmanuel Linares Romero
+  Date: March 22, 2016
+*/
+
+body{
+  background-color: #9ACCCD;
+}
+
+#container{
+  width: 900px;
+  margin: auto;
+  border-width: 1px;
+  border-style: solid;
+  border-color: red;
+  background-color: #AAAAAA;
+  margin-top: 30px;
+}
+
+#header{
+  padding: 30px;
+  height: 100px;
+  background-color: #8FD8A0;
+  clear: both;
+}
+
+#sidebar-left{
+  padding: 10px;
+  height: 400px;
+  width: 170px;
+  background-color: #CBD890;
+  float: left;
+
+}
+
+#sidebar-right{
+  padding: 10px;
+  height: 400px;
+  width: 170px;
+  background-color: #CBD890;
+  float: left;
+}
+
+#content{
+  padding: 10px;
+  background-color: #DACC8F;
+  min-height: 600px;
+  width: 500px;
+  float: left;
+}
+
+#footer{
+  background-color: #8FD8A0;
+  padding: 10px;
+  height: 50px;
+  text-align: center;
+  clear: both;
+}
